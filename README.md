@@ -1,4 +1,4 @@
-# Advanced React And Redux testing module
+# Advanced React And Redux higher order component module
 
-Class code for learning how to write test cases for React applications
+Class code for learning how to write HOCs for React applications
 
